@@ -1,0 +1,23 @@
+[
+  {
+    "Id": "jenlooper-cactus",
+    "Maker": "@jenlooper",
+    "img": "https://i.imgur.com/TG976oG.jpeg",
+    "Url": "https://www.twilio.com/blog/introduction-asp-net-core-razor-pages",
+    "Title": "The quantified cactus1",
+    "Description": "This project is a good learning project",
+    "Ratings": [
+      6,
+      4
+    ]
+  },
+  {
+    "Id": "jenlooper-light",
+    "Maker": "jenlooper",
+    "img": "https://i.imgur.com/onhMKZo.png",
+    "Url": "https://docs.microsoft.com/en-us/aspnet/core/razor-pages/",
+    "Title": "A beautiful switch-on book light",
+    "Description": "Use craft item that you have around",
+    "Ratings": null
+  }
+]
